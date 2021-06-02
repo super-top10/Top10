@@ -9,10 +9,14 @@
 }
 
 #conteudo {
+<<<<<<< Updated upstream
     width:50%;
     height:60px;
     position:fixed;
     top: 100px;;
     left:0;
 
+=======
+    
+>>>>>>> Stashed changes
 }
