@@ -7,3 +7,12 @@
     top:0;
     left:0;
 }
+
+#conteudo {
+    width:50%;
+    height:60px;
+    position:fixed;
+    top: 100px;;
+    left:0;
+
+}
